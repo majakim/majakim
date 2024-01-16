@@ -1,0 +1,207 @@
+<mxfile host="app.diagrams.net" modified="2024-01-16T09:53:18.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="y8xkFi_ngJc-_N8NEcgY" version="22.1.18" type="github" pages="2">
+  <diagram name="Seite-1" id="mE710MwjPAfPLrXYOjb3">
+    <mxGraphModel dx="989" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;Migration und Extraktion&lt;br&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="306.90000000000003" y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-11" value="&lt;div&gt;&lt;b&gt;Probenvorbereitung&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- dreifach Bestimmung&lt;/div&gt;&lt;div&gt;- Größe je Prüfmuster ca. 50 cm²&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298.53" y="90" width="194.63" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sxllcjVrIl_AhEIqnM2d-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395.84000000000003" y="160" as="sourcePoint" />
+            <mxPoint x="395.5" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="395.84000000000003" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-14" value="&lt;div&gt;&lt;b&gt;Migration&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Prüfmuster wird in Petrischale gelegt und mit 2g MPPO von allen Seiten bedeckt&lt;/div&gt;&lt;div&gt;- Petrischale wird geschlossen&lt;/div&gt;&lt;div&gt;- Blindwert = Petrischale + 2g MPPO&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="271.78000000000003" y="187.5" width="226.19" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690.5" y="300" as="sourcePoint" />
+            <mxPoint x="520.5" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690.5" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-15" value="&lt;b&gt;Abkühlen&lt;br&gt;&lt;/b&gt;&lt;div&gt;- geschlossene Petrischale ca. 30 min auf&amp;nbsp; RT abkühlen lassen&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610.5" y="212.5" width="163" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;u&gt;Globalmigration mit Tenax&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="289" y="10" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500.5" y="250" as="sourcePoint" />
+            <mxPoint x="604" y="249.70999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="550" y="249.70999999999998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-24" value="&lt;div&gt;nach Migration&lt;br&gt; im Ofen&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="sxllcjVrIl_AhEIqnM2d-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="470" as="targetPoint" />
+            <mxPoint x="400" y="500" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="400" y="520" />
+              <mxPoint x="220" y="520" />
+              <mxPoint x="220" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-35" value="2 x wiederholen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sxllcjVrIl_AhEIqnM2d-33">
+          <mxGeometry x="0.488" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-25" value="&lt;div&gt;&lt;b&gt;Extraktion&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- 30 mL Diethylether hinzugeben&lt;/div&gt;&lt;div&gt;- 1 min von Hand schütteln&lt;/div&gt;&lt;div&gt;- 1 min stehen lassen&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280.03999999999996" y="430" width="226.19" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-26" value="&lt;b&gt;Überführung&lt;/b&gt;&lt;div&gt;- MPPO mit Hilfe eines Trichters in ein Erlenmyerkolben überführen&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279.5" y="330" width="227.26" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397.07" y="390" as="sourcePoint" />
+            <mxPoint x="396.72999999999996" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="397.07" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-29" value="Extrakt mittels Faltenfilter und Trichter in ein gewogenes 100mL BG &lt;b&gt;dekantieren&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="267.2099999999999" y="570" width="257.26" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sxllcjVrIl_AhEIqnM2d-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397.07000000000005" y="530" as="sourcePoint" />
+            <mxPoint x="396.73" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="397.07000000000005" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397.07" y="620" as="sourcePoint" />
+            <mxPoint x="396.72999999999996" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="397.07" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-3" value="&lt;div&gt;&lt;b&gt;Nachspülen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Filter mit 10 mL nachspülen&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323.9" y="660" width="142.26" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397.07" y="710" as="sourcePoint" />
+            <mxPoint x="396.72999999999996" y="740" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="397.07" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-5" value="&lt;div&gt;&lt;b&gt;Abdampfen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- BG bis zur Trockene im Abzug stehen lassen&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324.34" y="750" width="145.13" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397.07" y="810" as="sourcePoint" />
+            <mxPoint x="396.72999999999996" y="840" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="397.07" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-7" value="&lt;div&gt;&lt;b&gt;Konditionierung&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- BG für 100 °C für mindestens 20 Minuten erhitzen&lt;/div&gt;&lt;div&gt;- BG in Eksikkator auf RT abkühlen und auf 0,0001g konstant wiegen&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;- Werte der Wiegungen dürfen nicht mehr als 0,0005 auseinander liegen&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="272.65" y="850" width="248.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-9" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Berechnung&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;M = Rückstand in mg / dm&lt;b&gt;²&lt;/b&gt;&lt;/div&gt;&lt;div&gt;ma = Rückwaage in mg&lt;/div&gt;&lt;div&gt;mb = Einwaage des BG in mg&lt;/div&gt;&lt;div&gt;s = Fläche des Prüfmusters&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276.38" y="1000" width="238.91" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="395.67" y="287.5" as="sourcePoint" />
+            <mxPoint x="395.67" y="317.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="396.01000000000005" y="307.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="397.07" y="960" as="sourcePoint" />
+            <mxPoint x="396.72999999999996" y="990" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="397.07" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="310.34" y="1037.57" width="171" height="34.85" as="geometry" />
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515.29" y="1074.92" as="sourcePoint" />
+            <mxPoint x="545.29" y="1074.92" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vV9mmEZAdNV0XcNs7X3F-15" value="&lt;div&gt;&lt;b&gt;Ergebnis&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- Mittelwert der drei Ergebnisse&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560.5" y="1045" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fLHFkZbGKbjYCiYAodAm-1" value="&lt;div&gt;&lt;b&gt;Reinigung von MPPO&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- 6h mit Diethylether unter Rückfluss kochen&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640.25" y="580" width="143" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fLHFkZbGKbjYCiYAodAm-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="711.88" y="650" as="sourcePoint" />
+            <mxPoint x="711.54" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="711.88" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLHFkZbGKbjYCiYAodAm-3" value="&lt;div&gt;&lt;b&gt;Trocknung MPPO&lt;/b&gt;&lt;/div&gt;&lt;div&gt;- 24h in Petrischale über Nacht stehen lassen&lt;/div&gt;&lt;div&gt;- 6h bei 160 °C in TS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620.5" y="690" width="189.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fLHFkZbGKbjYCiYAodAm-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;u&gt;Vorbereitung MPPO&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="636.75" y="540" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fLHFkZbGKbjYCiYAodAm-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="711.88" y="760" as="sourcePoint" />
+            <mxPoint x="711.54" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="711.88" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLHFkZbGKbjYCiYAodAm-6" value="&lt;b&gt;Lagerung&lt;br&gt;&lt;/b&gt;&lt;div&gt;- im geschlossenen Erlenmeyerkolben&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="636.75" y="800" width="143" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2BSP-w3m0gCk4Yn30SV3" name="Seite-2">
+    <mxGraphModel dx="3585" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
